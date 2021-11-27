@@ -1,0 +1,2 @@
+# aliasForWindows
+Windows用のエイリアスコマンド
